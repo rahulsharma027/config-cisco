@@ -1,8 +1,0 @@
-spring:
-  application:
-    name: spring-boot-jpa-demo
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    username: root
-    password: admin123
-    url: jdbc:mysql://localhost:3306/cisco_db
